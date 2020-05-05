@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "vn.com.khoibv",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "products",
+    "packageName": "vn.com.khoibv",
+    "packageFolder": "vn/com/khoibv",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MDcxZGRkMWZhMjA2NWNhNjJhYWM1NzJlOWU3ZjZkYmQ2ZjA3YjNmMzk3YzgxN2I4MzAyMmE2MDQwNGFhMGQ1NWRiY2U0OGFiOTAyNTY4MjkyMDI1ZjNiMDRjZTk2N2ZhOWU2OTFkNTQ5MjVlNzZkMGMzNmNlM2IzOTQ5ZjUzNDY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1588672938738,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
